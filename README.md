@@ -19,8 +19,10 @@ This project is a web-based chatbot interface that integrates with Google's Gemi
 - A Google API key with access to the Gemini API
 
 ```markdown
-[happy bot](https://www.example.com "Visit demo")
+[Live Demo](https://happybot.tiiny.site/)
 ```
+
+![Screenshot](img/Screenshot.jpg)
 
 
 ### Installation
