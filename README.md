@@ -28,7 +28,7 @@ This project is a web-based chatbot interface that integrates with Google's Gemi
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/chatbot-gemini.git
+   git clone https://github.com/Hercules-Peters/Chatbot-Interface-Using-Google-Gemini-API.git
    ```
 2. Navigate to the project directory:
    ```sh
